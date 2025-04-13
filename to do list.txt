@@ -1,0 +1,25 @@
+    * - Modifier le système d'initialisation (les boules sont tout le temps dans le meme ordre)
+    * - Faire s'afficher toutes les boules
+    * - Pouvoir bouger les boules
+    * - Faire en sorte qu'on puisse remettre la boule là ou on l'a prit
+    * - Choisir des thèmes de couleurs
+    * - fo kon puiss recomancé parske c cringe 2 pa pouvouar
+    * - tunner les tubes avec les couleurs hsl (donc aussi créer des rect au lieu d'importer les img)
+    * - changer la couleur de base de la balle selectionnée
+    * - Quand on selectionne le bail il reste sur le curseur
+    * - Le jeu s'adapte à la taille de l'écran
+    * - écarter plus les tubes
+    * - niv prédéfinis en json
+    * - Modifier les fonctions pour qu'on puisse choisir le nombre de tubes (plus de 8)
+- Mettre un système de chronomètre et de classement
+- mettre une licorne qui se balade
+- Faire un écran de fin de niveau
+- Algorithme pour résoudre de la manière la plus simple
+- tube = potions car thème medieval fantaisie
+    * - Dans les menus faire une partie niveaux et une partie niveaux aléatoires
+- faire les paramètres et about
+- annoter
+    * - pouvoir choisir le nbr de tubes dans niv aléatoires
+- faire tous les niveaux prédéfinis
+- restart du niv random redonne le meme niveau
+- des ptites lignes entre les mondes
