@@ -1,4 +1,4 @@
 # potionmaker
 
-Ce jeu est un ball sort puzzle que j'ai créé en classe de terminale terminale
+Ce jeu est un ball sort puzzle que j'ai créé en classe de terminale terminale\n
 Run menu.py pour le lancer
